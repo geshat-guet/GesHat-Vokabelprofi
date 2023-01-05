@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=VokabelKiste
+comment0.text=\n\ Die\ Klasse\ VokabelKiste\ repr\u00E4sentiert\ eine\ Box,\ in\ der\ einzelne\n\ Vokabelkarten\ liegen.\n\ Diese\ werden\ in\ einer\ Liste\ gespeichert.\n\ \n\ @author\ guet\ \n\ @version\ 2022\n
+comment1.params=
+comment1.target=VokabelKiste()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ VokabelKiste\n
+comment2.params=pNeueKarte
+comment2.target=void\ vokabelHinzufuegen(VokabelKarte)
+comment2.text=\ \n\ Auftrag\ vokabelHinzufuegen\n\ @param\ pNeueKarte\ -\ VokabelKarte,\ die\ hinzugef\u00FCgt\ werden\ soll\n\ \n\ Nachher\:\ neue\ Vokabelkarte\ (pNeueKarte)\ ist\ am\ Ende\ der\ Liste\n\ angeh\u00E4ngt.\n
+comment3.params=
+comment3.target=int\ getAnzahlVokabeln()
+comment3.text=\n\ Anfrage\ getAnzahlVokabeln\n\ gibt\ den\ Wert\ an,\ der\ in\ der\ Variable\n\ "anzahlVokabeln"\ gespeichert\ ist.\n\ @return\ Wert,\ der\ in\ anzahlVokabeln\ gespeichert\ ist.\n
+comment4.params=
+comment4.target=int\ zaehleVokabeln()
+comment4.text=\n\ Anfrage\ zaehleVokabeln\n\ @return\ Anzahl\ der\ Vokabeln\ in\ der\ Liste\n\ \n\ Z\u00E4hlt\ die\ Vokaben\ in\ der\ Liste\ mit\ dem\ Verfahren\:\n\ Gehe\ an\ den\ Anfang\ der\ Liste,\n\ Solange\ Zugriff\ auf\ eine\ Vokabel\ besteht\ erh\u00F6he\ die\n\ Variable\ anz\ (Befehl\ anz++)\ und\ gehe\ einen\ Schritt\ in\ der\n\ Liste\ weiter\ (next).\n
+comment5.params=
+comment5.target=java.lang.String\ dateiStringErzeugen()
+comment5.text=\n\ Anfrage\ dateiStringErzeugen\n\ @return\ String\ f\u00FCr\ die\ Speicherung\ in\ einer\ Datei\n\ \n\ Erzeugt\ einen\ String\ f\u00FCr\ die\ Speicherung\ in\ einer\ Datei.\n
+comment6.params=
+comment6.target=java.lang.String\ listenStringErzeugen()
+comment6.text=\n\ Anfrage\ listenStringErzeugen\ erzeugt\ einen\ String,\ der\ in\ einem\n\ Textfeld\ ausgegeben\ werden\ kann.\n\ \n\ @return\ String\ f\u00FCr\ die\ Listenausgabe\n
+numComments=7

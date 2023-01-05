@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ListenansichtGUI
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ ListenansichtGUI.\n\ \n\ Die\ Klasse\ ListenansichtGUI\ startet\ ein\ neues\ Fenster\ und\n\ zeigt\ alle\ Vokabeln\ in\ der\ VokabelKiste\ an,\ die\ beim\ Aufrufen\ als\ \n\ Parameter\ \u00FCbergeben\ wurde.\n\ \n\ @author\ guet\n\ @version\ 2023\n
+comment1.params=pVK
+comment1.target=ListenansichtGUI(VokabelKiste)
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ ListenansichtGUI\n\ \n\ @param\ pVK\ VokabelKiste\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ actionPerformed\ f\u00FCr\ Buttons\ usw...\n
+numComments=3

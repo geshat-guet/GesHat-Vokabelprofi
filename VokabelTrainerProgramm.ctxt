@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=VokabelTrainerProgramm
+comment0.text=\n\ <H1>Klasse\ VokabelTrainerProgramm</H1>\n\ \n\ Das\ Hauptprogramm\ mit\ main-Methode.<br>\n\ \u00D6ffnet\ das\ Hauptfenster,\n\ erzeugt\ alle\ n\u00F6tigen\ Objekte\ und\ l\u00E4d\ die\ aktuell\ gespeicherte\n\ Vokabelliste.\n\ \n\ @author\ guet\n\ @version\ 2023\n
+comment1.params=
+comment1.target=VokabelTrainerProgramm()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

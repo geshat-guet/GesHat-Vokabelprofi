@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=FileHandler
+comment0.text=\n\ Klasse\ FileHandler\n\ Erledigt\ das\ Laden\ und\ Speichern\ der\ Vokabeln\ in\ Dateien.\n\ \n\ @author\ guet\ \n\ @version\ 2023\n
+comment1.params=
+comment1.target=FileHandler()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ FileHandler\n
+comment2.params=
+comment2.target=boolean\ ladeDatei()
+comment2.text=\n\ ladeDatei\n\ \n\ L\u00E4d\ die\ Vokabeln\ aus\ der\ angegebenen\ Datei.\n
+comment3.params=
+comment3.target=void\ speichereDatei()
+comment4.params=pVK
+comment4.target=void\ setVokabelKiste(VokabelKiste)
+numComments=5
